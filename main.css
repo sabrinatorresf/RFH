@@ -312,6 +312,7 @@ iframe {
         width: 80%;
         flex-direction: column;
         margin: 0 auto;
+        text-align: center;
     }
     .seccion01-container {
         display: flex;
@@ -372,7 +373,6 @@ iframe {
     height: 150px;
     background-image: url(imgs/icono-sueño.png);
     background-repeat: no-repeat;
-   
 }
 
    form {
@@ -505,6 +505,7 @@ iframe {
         width: 80%;
         flex-direction: column;
         margin: 0 auto;
+        text-align: center;
     }
     .seccion03-icono-estres {
         width: 100%;
