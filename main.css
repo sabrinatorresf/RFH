@@ -302,7 +302,7 @@ iframe {
         width: 100%;
         height: 150px;
        /*  height: calc(100vh * 0.398467432950192); Pruebo esto con vw y vh y tampoco me sale*/
-        background-image: url(imgs/Asset\ 15-100.jpg);
+        background-image: url(imgs/banner.jpg);
         background-repeat: no-repeat;
         background-size: 100vw; 
     }
@@ -496,7 +496,7 @@ iframe {
         width: 100%;
         height: 300px;
        /*  height: calc(100vh * 0.398467432950192); Pruebo esto con vw y vh y tampoco me sale*/
-        background-image: url(imgs/Asset\ 15-100.jpg);
+        background-image: url(imgs/banner.jpg);
         background-repeat: no-repeat;
         background-size: 100vw; 
     }
